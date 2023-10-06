@@ -1,1 +1,2 @@
-# Exam-System-Java-oop
+# Exam-Management-System
+OOP Project
